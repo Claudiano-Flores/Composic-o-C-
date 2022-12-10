@@ -1,0 +1,15 @@
+C:\Temp\Projetos\Composition\Composition\bin\Debug\net6.0\Composition.exe
+C:\Temp\Projetos\Composition\Composition\bin\Debug\net6.0\Composition.deps.json
+C:\Temp\Projetos\Composition\Composition\bin\Debug\net6.0\Composition.runtimeconfig.json
+C:\Temp\Projetos\Composition\Composition\bin\Debug\net6.0\Composition.dll
+C:\Temp\Projetos\Composition\Composition\bin\Debug\net6.0\Composition.pdb
+C:\Temp\Projetos\Composition\Composition\obj\Debug\net6.0\Composition.csproj.AssemblyReference.cache
+C:\Temp\Projetos\Composition\Composition\obj\Debug\net6.0\Composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\Composition\Composition\obj\Debug\net6.0\Composition.AssemblyInfoInputs.cache
+C:\Temp\Projetos\Composition\Composition\obj\Debug\net6.0\Composition.AssemblyInfo.cs
+C:\Temp\Projetos\Composition\Composition\obj\Debug\net6.0\Composition.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\Composition\Composition\obj\Debug\net6.0\Composition.dll
+C:\Temp\Projetos\Composition\Composition\obj\Debug\net6.0\refint\Composition.dll
+C:\Temp\Projetos\Composition\Composition\obj\Debug\net6.0\Composition.pdb
+C:\Temp\Projetos\Composition\Composition\obj\Debug\net6.0\Composition.genruntimeconfig.cache
+C:\Temp\Projetos\Composition\Composition\obj\Debug\net6.0\ref\Composition.dll
